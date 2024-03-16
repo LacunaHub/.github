@@ -1,0 +1,5 @@
+{
+  "name": "Bump version",
+  "description": "Automatically bump version of Node.js package.",
+  "categories": [JavaScript, TypeScript]
+}
